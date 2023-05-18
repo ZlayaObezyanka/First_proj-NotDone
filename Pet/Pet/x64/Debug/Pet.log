@@ -1,0 +1,4 @@
+﻿  Pet.cpp
+D:\Новая папка\Pet\Pet\New_game.h(8,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Новая папка\Pet\Pet\New_game.h(8,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Pet.vcxproj -> D:\Новая папка\Pet\x64\Debug\Pet.exe
